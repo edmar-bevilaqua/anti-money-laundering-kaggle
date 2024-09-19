@@ -2,3 +2,4 @@
 *.zip
 data
 env.yml
+*.pyc
