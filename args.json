@@ -1,0 +1,21 @@
+{
+    "emlps": true,
+    "reverse_mp": true,
+    "ports": true,
+    "tds": true,
+    "ego": true,
+
+    "batch_size": 8192,
+    "n_epochs": 100,
+    "num_neighs": [100,100],
+
+    "seed": 1,
+    "tqdm": true,
+    "data": true,
+    "model": "gin",
+    "testing": true,
+    "save_model": true,
+    "unique_name": true,
+    "finetune": true,
+    "inference": true
+}
